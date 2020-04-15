@@ -1,5 +1,5 @@
 # adrien-simard-football-dataset
-Creation of a dataset of the different clubs of the football as well as players. 
+Creation of a dataset of the different teams as well as players. 
 
 - You can read and dowload ENplayer.csv here: https://drive.google.com/file/d/19p0nCNxX5YmZbqDocMAmbbcuA0KBJe3p/view?usp=sharing
 
